@@ -1,0 +1,13 @@
+* Word Search Puzzle
+Word Search Puzzle is a game to find out words in a matrix composed of
+characters.  It is a GUI program and I don't think you need many
+configurations to make it work (at least under Windows).
+
+** Development Environment
+The program was developed using Microsoft Visual C++ 2005 (yes it's
+old like that).
+
+** Binaries and Codes
+There is a prebuilt version of the program in the =Production=
+directory.  It was built for Windows XP under intel x86 architecture.
+The source codes are put in the =Code= directory.
