@@ -4,7 +4,7 @@ characters.  It is a GUI program and I don't think you need many
 configurations to make it work (at least under Windows).
 
 ** Development Environment
-The program was developed using Microsoft Visual C++ 2005 (yes it's
+The program was developed using Microsoft Visual C++ 2008 (yes it's
 old like that).
 
 ** Binaries and Codes
